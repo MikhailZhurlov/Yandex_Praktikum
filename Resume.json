@@ -13,9 +13,12 @@
             	},
 
 	"Skills": {
-                  "Qa Engineer": ["Testing theory","test-case","check-list", "test-plane","bug reporting", "test analysis","test design","functional testing","regression testing","                                   Unit testing","User Interface Testing", "Client server architecture","Testing web applications", "DevTools", "Charles", "HTTP", "REST", "SOAP",                                    "XML", "JSON", "Testing mobile applications in Android Studio", "Removing logs in the emulator", "Git", "PostgreSQL"]
+                  "Qa Engineer": ["Testing theory","test-case","check-list", "test-plane","bug reporting", "test analysis","test design",
+			  "functional testing","regression testing","Unit testing","User Interface Testing", "Client server architecture",
+			  "Testing web applications", "DevTools", "Charles", "HTTP", "REST", "SOAP", "XML", "JSON", 
+			  "Testing mobile applications in Android Studio", "Removing logs in the emulator", "Git", "PostgreSQL"]
          	  },
-		
+	
 	"Work experience":[ { "name": "Yandex Practicum",
 		             "position": "Qa Engineer",
 			     "startDate": "2022-01-13", 
