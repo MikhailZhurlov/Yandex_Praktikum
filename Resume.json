@@ -1,0 +1,44 @@
+{
+	"Personal information": {
+		"name": "Mikhail",
+		"Surname": "Zhurlov",
+		"patronymic": "Alexandrovich",
+		"Age": 28,
+		"Email": "Mishka555405@yandex.ru",
+		"Telegram":"https://t.me/Zhurlov1",
+		"GitHub": "https://github.com/MikhailZhurlov",
+		"Phone": 89516883589,
+		"City": "Saint-Petersburg",
+		"Interests": ["testing", "table tennis"]
+            	},
+
+	"Skills": {
+                  "Qa Engineer": ["Testing theory","test-case","check-list", "test-plane","bug reporting", "test analysis","test design","functional testing","regression testing","                                   Unit testing","User Interface Testing", "Client server architecture","Testing web applications", "DevTools", "Charles", "HTTP", "REST", "SOAP",                                    "XML", "JSON", "Testing mobile applications in Android Studio", "Removing logs in the emulator", "Git", "PostgreSQL"]
+         	  },
+		
+	"Work experience":[ { "name": "Yandex Practicum",
+		             "position": "Qa Engineer",
+			     "startDate": "2022-01-13", 
+                             "endDate": "2022-05-26" },
+			     
+			    { "name": "Geoscan aero",
+			      "position": "Quadcopter Assembler",
+			      "startDate": "2015-05-10",
+			      "endDate": "2018-01-12" }
+	                  ], 
+	                  
+	"Education":[ { "courses": ["Yandex Practicum - Qa Engineer"],
+                        "startDate": "2022-01-13",
+			"endDate": "2022-05-26"},
+
+		      { "college": "Taganrog Metallurgical",
+	                "specialization":["installation and technical operation of industrial equipment"],
+		        "starDate": "2009-09-01",
+		        "endDate": "2013-06-01"}
+	            ]
+}
+
+			     
+			   
+
+
